@@ -7,16 +7,16 @@ package mprojetoequipe01;
 
 /**
  *
- * @author jairb
+ * @author gabriellima
  */
-public class MProjetoEquipe01 {
+public class GabrielLima {
 
-    /**@
+    /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Jair Ferraz");
+        System.out.println("Gabriel Lima");
     }
     
 }
